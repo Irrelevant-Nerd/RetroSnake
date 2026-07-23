@@ -1,0 +1,40 @@
+# ninja log v6
+67	2853	8063940539349071	CMakeFiles/RetroSnake.dir/src/Fruit.cpp.obj	2ec7a72b8cbf8454
+155	4459	8064711523240909	CMakeFiles/RetroSnake.dir/src/Grid.cpp.obj	c92134abfeaa8681
+131	677	8064881501115001	build.ninja	6fbdd3f4398efc8a
+7	77	8064877722863651	C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs	2e547230c22515d5
+90	3968	8064877723700407	CMakeFiles/RetroSnake.dir/src/Main.cpp.obj	7daf1595a877b051
+4091	4452	8064877763702207	RetroSnake.exe	d5e0f0ebf1574b5d
+84	4091	8064877723637319	CMakeFiles/RetroSnake.dir/src/Game.cpp.obj	ca782a1dca092530
+102	3473	8064877723854585	CMakeFiles/RetroSnake.dir/src/Snake.cpp.obj	4c27270a02b916cd
+121	3266	8064279628935980	CMakeFiles/RetroSnake.dir/src/Text.cpp.obj	ff37f493c6a8e8d9
+12	161	8064882183649749	C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs	2e547230c22515d5
+191	3629	8064882185455948	CMakeFiles/RetroSnake.dir/src/Snake.cpp.obj	4c27270a02b916cd
+183	3875	8064882185354027	CMakeFiles/RetroSnake.dir/src/Main.cpp.obj	7daf1595a877b051
+176	4132	8064882185281828	CMakeFiles/RetroSnake.dir/src/Game.cpp.obj	ca782a1dca092530
+4133	4663	8064882224862493	RetroSnake.exe	d5e0f0ebf1574b5d
+30	72	8064887076902308	C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs	2e547230c22515d5
+91	2835	8064887077605244	CMakeFiles/RetroSnake.dir/src/Snake.cpp.obj	4c27270a02b916cd
+84	3231	8064887077476361	CMakeFiles/RetroSnake.dir/src/Main.cpp.obj	7daf1595a877b051
+28	71	8064887249743500	C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs	2e547230c22515d5
+78	2308	8064887250266441	CMakeFiles/RetroSnake.dir/src/Game.cpp.obj	ca782a1dca092530
+2309	2545	8064887272537274	RetroSnake.exe	d5e0f0ebf1574b5d
+25	71	8064888336287297	C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs	2e547230c22515d5
+76	2312	8064888336802401	CMakeFiles/RetroSnake.dir/src/Game.cpp.obj	ca782a1dca092530
+2313	2580	8064888359161164	RetroSnake.exe	d5e0f0ebf1574b5d
+35	83	8064904805876285	C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs	2e547230c22515d5
+89	3446	8064904806421470	CMakeFiles/RetroSnake.dir/src/Fruit.cpp.obj	2ec7a72b8cbf8454
+103	3529	8064904806572310	CMakeFiles/RetroSnake.dir/src/Main.cpp.obj	7daf1595a877b051
+95	3640	8064904806489566	CMakeFiles/RetroSnake.dir/src/Game.cpp.obj	ca782a1dca092530
+3640	4268	8064904841883071	RetroSnake.exe	d5e0f0ebf1574b5d
+24	66	8064907677672186	C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs	2e547230c22515d5
+71	3255	8064907678221087	CMakeFiles/RetroSnake.dir/src/Fruit.cpp.obj	2ec7a72b8cbf8454
+83	3323	8064907678419473	CMakeFiles/RetroSnake.dir/src/Main.cpp.obj	7daf1595a877b051
+76	3418	8064907678221087	CMakeFiles/RetroSnake.dir/src/Game.cpp.obj	ca782a1dca092530
+3419	3682	8064907711737822	RetroSnake.exe	d5e0f0ebf1574b5d
+25	66	8064913357277371	C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs	2e547230c22515d5
+73	3871	8064913357754811	CMakeFiles/RetroSnake.dir/src/Fruit.cpp.obj	2ec7a72b8cbf8454
+96	3909	8064913357906766	CMakeFiles/RetroSnake.dir/src/Text.cpp.obj	ff37f493c6a8e8d9
+86	4225	8064913357900915	CMakeFiles/RetroSnake.dir/src/Main.cpp.obj	7daf1595a877b051
+78	4399	8064913357754811	CMakeFiles/RetroSnake.dir/src/Game.cpp.obj	ca782a1dca092530
+4399	4646	8064913401021077	RetroSnake.exe	d5e0f0ebf1574b5d

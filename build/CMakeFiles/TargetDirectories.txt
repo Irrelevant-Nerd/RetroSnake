@@ -1,0 +1,3 @@
+C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/RetroSnake.dir
+C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/edit_cache.dir
+C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/rebuild_cache.dir
