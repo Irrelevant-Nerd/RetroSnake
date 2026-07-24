@@ -38,7 +38,7 @@ void Snake::Direction()
 
 void Snake::Move(float moveDelay)
 {
-    if (clock.getElapsedTime().asSeconds() >= moveDelay)
+    if (moveClock.getElapsedTime().asSeconds() >= moveDelay)
     {
         if(snakeXSpeed != 0 || snakeYSpeed != 0)
         {
@@ -58,7 +58,7 @@ void Snake::Move(float moveDelay)
             }
             
         }
-        clock.restart();
+        moveClock.restart();
     };
 }
 

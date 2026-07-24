@@ -23,12 +23,10 @@ class Snake
 
     private:
         sf::RectangleShape snake;
-        
         sf::RectangleShape segment;
         std::list<sf::Vector2f> tail;
 
-        sf::Clock clock;
-
+        sf::Clock moveClock; // for movement
         const float SPEED {20.f};
 
         float snakeXSpeed {};

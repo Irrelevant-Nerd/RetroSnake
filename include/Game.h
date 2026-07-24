@@ -32,6 +32,11 @@ class Game{
         void LevelUp();
 
     private:
+        sf::Clock frameClock; // for displaying fps
+
+        float deltaTime;
+        float fps;
+
         float moveDelay {0.15f};
         int score {0};      
         int level {1};

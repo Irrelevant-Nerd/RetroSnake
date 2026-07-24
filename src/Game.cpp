@@ -11,6 +11,10 @@ void Game::Run()
     while(window.isOpen())  
     {
         HandleEvents();
+
+        deltaTime = frameClock.restart().asSeconds();
+        fps = 1.f / deltaTime;
+
         Render();
         
         if(CheckBorderBounds() || CheckHitSnakeBody(snake.getSnakePosition()))
@@ -39,7 +43,7 @@ void Game::HandleEvents()
 void Game::Render()
 {
     // text property
-    text.Update(score, level);
+    text.Update(score, level, fps);
     
     // snake properties
     snake.Direction();
