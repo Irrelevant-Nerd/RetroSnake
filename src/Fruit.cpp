@@ -9,8 +9,8 @@ Fruit::Fruit()
 
 void Fruit::GenerateCoors()
 {
-    fruitCoorsX = (Random::get(1, wWIDTH) / 2) / 20 * 20;
-    fruitCoorsY = (Random::get(1, wHEIGHT) / 2) / 20 * 20;
+    fruitCoorsX = Random::get(0, wWIDTH / GRID_SIZE - 1) * GRID_SIZE;
+    fruitCoorsY = Random::get(0, wHEIGHT / GRID_SIZE - 1) * GRID_SIZE;
     fruit.setPosition({static_cast<float>(fruitCoorsX), static_cast<float>(fruitCoorsY)});
 }
 
