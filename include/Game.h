@@ -25,7 +25,8 @@ class Game{
         void HandleEvents();
         void Render();
         void Draw();
-        
+        void DrawText(); // sub function of Draw()
+
         void ValidateFruitCoors();
         bool CheckBorderBounds();
         bool CheckHitSnakeBody(sf::Vector2f shapePos);
@@ -38,8 +39,10 @@ class Game{
         float fps;
 
         float moveDelay {0.15f};
-        int score {0};      
+        int score {0};
         int level {1};
+
+        bool showText {true};
 };
 
 #endif

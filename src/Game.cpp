@@ -8,7 +8,7 @@ Game::Game():
 
 void Game::Run()
 {
-    while(window.isOpen())  
+    while(window.isOpen())
     {
         HandleEvents();
 
@@ -16,7 +16,7 @@ void Game::Run()
         fps = 1.f / deltaTime;
 
         Render();
-        
+
         if(CheckBorderBounds() || CheckHitSnakeBody(snake.getSnakePosition()))
         {
             sf::sleep(sf::seconds(2)); // sleeps for 2 sec before the window close
@@ -37,14 +37,23 @@ void Game::HandleEvents()
         {
             window.close();
         }
+
+        if (const auto* key = event->getIf<sf::Event::KeyPressed>())
+        {
+            if (key->code == sf::Keyboard::Key::H)
+            {
+                showText = !showText;
+            }
+        }
     }
+
 }
 
 void Game::Render()
 {
     // text property
     text.Update(score, level, fps);
-    
+
     // snake properties
     snake.Direction();
     snake.Move(moveDelay);
@@ -67,7 +76,7 @@ void Game::ValidateFruitCoors()
 
 void Game::LevelUp()
 {
-    if(score >= (level) * 20) 
+    if(score >= (level) * 20)
     {
         level+=1;
         if(moveDelay > 0.05f) // we dont want the snake to be way too fast
@@ -82,8 +91,15 @@ void Game::Draw()
     snake.Draw(window);
     fruit.Draw(window);
     grid.Draw(window);
+    if(showText)
+        DrawText();
+}
+
+void Game::DrawText()
+{
     text.Draw(window);
 }
+
 
 bool Game::CheckBorderBounds()
 {
