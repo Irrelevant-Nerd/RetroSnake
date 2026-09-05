@@ -31,7 +31,7 @@ void Game::Run()
 
 void Game::HandleEvents()
 {
-    while(std::optional event = window.pollEvent())
+    while(std::optional  event = window.pollEvent())
     {
         if(event->is<sf::Event::Closed>())
         {

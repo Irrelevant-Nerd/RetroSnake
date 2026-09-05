@@ -3,16 +3,16 @@
 cmake_policy(SET CMP0009 NEW)
 
 # SRC_FILES at CMakeLists.txt:12 (file)
-file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/THIS PC/Documents/VSCODE/RetroSnake/src/*.cpp")
+file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/src/*.cpp")
 set(OLD_GLOB
-  "C:/Users/THIS PC/Documents/VSCODE/RetroSnake/src/Fruit.cpp"
-  "C:/Users/THIS PC/Documents/VSCODE/RetroSnake/src/Game.cpp"
-  "C:/Users/THIS PC/Documents/VSCODE/RetroSnake/src/Grid.cpp"
-  "C:/Users/THIS PC/Documents/VSCODE/RetroSnake/src/Main.cpp"
-  "C:/Users/THIS PC/Documents/VSCODE/RetroSnake/src/Snake.cpp"
-  "C:/Users/THIS PC/Documents/VSCODE/RetroSnake/src/Text.cpp"
+  "C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/src/Fruit.cpp"
+  "C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/src/Game.cpp"
+  "C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/src/Grid.cpp"
+  "C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/src/Main.cpp"
+  "C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/src/Snake.cpp"
+  "C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/src/Text.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
-  file(TOUCH_NOCREATE "C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs")
+  file(TOUCH_NOCREATE "C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/build/CMakeFiles/cmake.verify_globs")
 endif()

@@ -34,7 +34,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/build/
+cmake_ninja_workdir = C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/build/
 # =============================================================================
 # Object build statements for EXECUTABLE target RetroSnake
 
@@ -44,47 +44,59 @@ cmake_ninja_workdir = C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/build/
 
 build cmake_object_order_depends_target_RetroSnake: phony || .
 
-build CMakeFiles/RetroSnake.dir/src/Fruit.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/src/Fruit.cpp || cmake_object_order_depends_target_RetroSnake
+build CMakeFiles/RetroSnake.dir/src/Fruit.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/src/Fruit.cpp || cmake_object_order_depends_target_RetroSnake
   DEP_FILE = CMakeFiles\RetroSnake.dir\src\Fruit.cpp.obj.d
   FLAGS = -std=gnu++17
-  INCLUDES = -I"C:/Users/THIS PC/Documents/VSCODE/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
+  INCLUDES = -I"C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
   OBJECT_DIR = CMakeFiles\RetroSnake.dir
   OBJECT_FILE_DIR = CMakeFiles\RetroSnake.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\RetroSnake.dir\
+  TARGET_PDB = RetroSnake.pdb
 
-build CMakeFiles/RetroSnake.dir/src/Game.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/src/Game.cpp || cmake_object_order_depends_target_RetroSnake
+build CMakeFiles/RetroSnake.dir/src/Game.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/src/Game.cpp || cmake_object_order_depends_target_RetroSnake
   DEP_FILE = CMakeFiles\RetroSnake.dir\src\Game.cpp.obj.d
   FLAGS = -std=gnu++17
-  INCLUDES = -I"C:/Users/THIS PC/Documents/VSCODE/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
+  INCLUDES = -I"C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
   OBJECT_DIR = CMakeFiles\RetroSnake.dir
   OBJECT_FILE_DIR = CMakeFiles\RetroSnake.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\RetroSnake.dir\
+  TARGET_PDB = RetroSnake.pdb
 
-build CMakeFiles/RetroSnake.dir/src/Grid.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/src/Grid.cpp || cmake_object_order_depends_target_RetroSnake
+build CMakeFiles/RetroSnake.dir/src/Grid.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/src/Grid.cpp || cmake_object_order_depends_target_RetroSnake
   DEP_FILE = CMakeFiles\RetroSnake.dir\src\Grid.cpp.obj.d
   FLAGS = -std=gnu++17
-  INCLUDES = -I"C:/Users/THIS PC/Documents/VSCODE/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
+  INCLUDES = -I"C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
   OBJECT_DIR = CMakeFiles\RetroSnake.dir
   OBJECT_FILE_DIR = CMakeFiles\RetroSnake.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\RetroSnake.dir\
+  TARGET_PDB = RetroSnake.pdb
 
-build CMakeFiles/RetroSnake.dir/src/Main.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/src/Main.cpp || cmake_object_order_depends_target_RetroSnake
+build CMakeFiles/RetroSnake.dir/src/Main.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/src/Main.cpp || cmake_object_order_depends_target_RetroSnake
   DEP_FILE = CMakeFiles\RetroSnake.dir\src\Main.cpp.obj.d
   FLAGS = -std=gnu++17
-  INCLUDES = -I"C:/Users/THIS PC/Documents/VSCODE/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
+  INCLUDES = -I"C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
   OBJECT_DIR = CMakeFiles\RetroSnake.dir
   OBJECT_FILE_DIR = CMakeFiles\RetroSnake.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\RetroSnake.dir\
+  TARGET_PDB = RetroSnake.pdb
 
-build CMakeFiles/RetroSnake.dir/src/Snake.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/src/Snake.cpp || cmake_object_order_depends_target_RetroSnake
+build CMakeFiles/RetroSnake.dir/src/Snake.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/src/Snake.cpp || cmake_object_order_depends_target_RetroSnake
   DEP_FILE = CMakeFiles\RetroSnake.dir\src\Snake.cpp.obj.d
   FLAGS = -std=gnu++17
-  INCLUDES = -I"C:/Users/THIS PC/Documents/VSCODE/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
+  INCLUDES = -I"C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
   OBJECT_DIR = CMakeFiles\RetroSnake.dir
   OBJECT_FILE_DIR = CMakeFiles\RetroSnake.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\RetroSnake.dir\
+  TARGET_PDB = RetroSnake.pdb
 
-build CMakeFiles/RetroSnake.dir/src/Text.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/src/Text.cpp || cmake_object_order_depends_target_RetroSnake
+build CMakeFiles/RetroSnake.dir/src/Text.cpp.obj: CXX_COMPILER__RetroSnake_unscanned_ C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/src/Text.cpp || cmake_object_order_depends_target_RetroSnake
   DEP_FILE = CMakeFiles\RetroSnake.dir\src\Text.cpp.obj.d
   FLAGS = -std=gnu++17
-  INCLUDES = -I"C:/Users/THIS PC/Documents/VSCODE/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
+  INCLUDES = -I"C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/include" -isystem C:/SFML-3.1.0_mingw64/include
   OBJECT_DIR = CMakeFiles\RetroSnake.dir
   OBJECT_FILE_DIR = CMakeFiles\RetroSnake.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\RetroSnake.dir\
+  TARGET_PDB = RetroSnake.pdb
 
 
 # =============================================================================
@@ -99,16 +111,17 @@ build RetroSnake.exe: CXX_EXECUTABLE_LINKER__RetroSnake_ CMakeFiles/RetroSnake.d
   OBJECT_DIR = CMakeFiles\RetroSnake.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\RetroSnake.dir\
   TARGET_FILE = RetroSnake.exe
   TARGET_IMPLIB = libRetroSnake.dll.a
-  TARGET_PDB = RetroSnake.exe.dbg
+  TARGET_PDB = RetroSnake.pdb
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D "C:\Users\THIS PC\Documents\VSCODE\RetroSnake\build" && C:\mingw64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D "C:\Users\THIS PC\Documents\Code\1 - Personal\C++\SFMLProjects\RetroSnake\build" && C:\mingw64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -119,7 +132,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D "C:\Users\THIS PC\Documents\VSCODE\RetroSnake\build" && C:\mingw64\bin\cmake.exe --regenerate-during-build -S"C:\Users\THIS PC\Documents\VSCODE\RetroSnake" -B"C:\Users\THIS PC\Documents\VSCODE\RetroSnake\build""
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D "C:\Users\THIS PC\Documents\Code\1 - Personal\C++\SFMLProjects\RetroSnake\build" && C:\mingw64\bin\cmake.exe --regenerate-during-build -S"C:\Users\THIS PC\Documents\Code\1 - Personal\C++\SFMLProjects\RetroSnake" -B"C:\Users\THIS PC\Documents\Code\1 - Personal\C++\SFMLProjects\RetroSnake\build""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -137,7 +150,7 @@ build RetroSnake: phony RetroSnake.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/THIS PC/Documents/VSCODE/RetroSnake/build
+# Folder: C:/Users/THIS PC/Documents/Code/1 - Personal/C++/SFMLProjects/RetroSnake/build
 
 build all: phony RetroSnake.exe
 
@@ -148,13 +161,13 @@ build all: phony RetroSnake.exe
 #############################################
 # Phony target to force glob verification run.
 
-build C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/VerifyGlobs.cmake_force: phony
+build C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/build/CMakeFiles/VerifyGlobs.cmake_force: phony
 
 
 #############################################
 # Re-run CMake to check if globbed directories changed.
 
-build C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs: VERIFY_GLOBS | C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/VerifyGlobs.cmake_force
+build C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/build/CMakeFiles/cmake.verify_globs: VERIFY_GLOBS | C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/build/CMakeFiles/VerifyGlobs.cmake_force
   pool = console
   restat = 1
 
@@ -162,14 +175,14 @@ build C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.veri
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/cmake.verify_globs | C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/VerifyGlobs.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLConfig.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLConfigVersion.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets.cmake C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/CMakeLists.txt C$:/mingw64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.4/CMakeCXXCompiler.cmake CMakeFiles/3.30.4/CMakeRCCompiler.cmake CMakeFiles/3.30.4/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/build/CMakeFiles/cmake.verify_globs | C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/build/CMakeFiles/VerifyGlobs.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLConfig.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLConfigVersion.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets.cmake C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/CMakeLists.txt C$:/mingw64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/mingw64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/mingw64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeNinjaFindMake.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/mingw64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/mingw64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.4/CMakeCXXCompiler.cmake CMakeFiles/3.30.4/CMakeRCCompiler.cmake CMakeFiles/3.30.4/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/build/CMakeFiles/VerifyGlobs.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLConfig.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLConfigVersion.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets.cmake C$:/Users/THIS$ PC/Documents/VSCODE/RetroSnake/CMakeLists.txt C$:/mingw64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.4/CMakeCXXCompiler.cmake CMakeFiles/3.30.4/CMakeRCCompiler.cmake CMakeFiles/3.30.4/CMakeSystem.cmake: phony
+build C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/build/CMakeFiles/VerifyGlobs.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLAudioSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLConfig.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLConfigVersion.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLGraphicsSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLNetworkSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLSystemSharedTargets.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets-debug.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets-release.cmake C$:/SFML-3.1.0_mingw64/lib/cmake/SFML/SFMLWindowSharedTargets.cmake C$:/Users/THIS$ PC/Documents/Code/1$ -$ Personal/C++/SFMLProjects/RetroSnake/CMakeLists.txt C$:/mingw64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/mingw64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/mingw64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeNinjaFindMake.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/mingw64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/mingw64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/mingw64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/mingw64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/mingw64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.4/CMakeCXXCompiler.cmake CMakeFiles/3.30.4/CMakeRCCompiler.cmake CMakeFiles/3.30.4/CMakeSystem.cmake: phony
 
 
 #############################################
