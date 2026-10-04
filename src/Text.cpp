@@ -1,7 +1,7 @@
 #include "../include/Text.h"
 
 Text::Text()
-    : font("../assets/fonts/HomeVideo-BLG6G.ttf")
+    : font("assets/fonts/pixelifysans/PixelifySans-Regular.ttf")
     , scoreText(font)
     , levelText(font)
     , fpsText(font)
