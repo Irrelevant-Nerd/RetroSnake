@@ -44,6 +44,10 @@ void Game::HandleEvents()
             {
                 showText = !showText;
             }
+            if (key->code == sf::Keyboard::Key::Escape)
+            {
+                window.close();
+            }
         }
     }
 
