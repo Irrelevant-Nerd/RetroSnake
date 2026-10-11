@@ -24,16 +24,13 @@ It features a very simple gameplay where you play as a snake that eats an apple,
 1. Clone the repository to a path
 ``` https://github.com/Irrelevant-Nerd/RetroSnake.git ```
 
-2. Download MSYS2 from the official website
-``` https://www.msys2.org/ ```
+2. Download MSYS2 from the official website - https://www.msys2.org/
 
 3. Install the mingw64 compiler from MSYS2
 
-4. Download SFML from official website
-``` https://www.sfml-dev.org/ ```
+4. Download SFML from official website https://www.sfml-dev.org/
 
-4. Start setting up the compiler and the SFML library, watch this YouTube video:
-``` https://youtu.be/RHrU3I1nsEI?si=pfwVPEmX16rw6lim ```
+4. Start setting up the compiler and the SFML library, watch this YouTube video - https://youtu.be/RHrU3I1nsEI?si=pfwVPEmX16rw6lim
 
 5. Run the .exe file inside the build directory
 ``` build/ ```
