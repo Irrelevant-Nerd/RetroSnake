@@ -16,6 +16,8 @@ It features a very simple gameplay where you play as a snake that eats an apple,
 
 - Press H key to hide the text displayed for more comfortable gameplay, press it again to display the text back
 
+- Press ESC to close the game
+
 - You start at level 1, the level gets progressively higher as you eat more apple
 
 - Hitting the border or your own body will result to game over
