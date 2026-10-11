@@ -21,8 +21,8 @@ It features a very simple gameplay where you play as a snake that eats an apple,
 - Hitting the border or your own body will result to game over
 
 ### How to install and play the game!
-1. Clone the repository to a path
-``` https://github.com/Irrelevant-Nerd/RetroSnake.git ```
+1. Open terminal and clone the repository to a path
+``` git clone https://github.com/Irrelevant-Nerd/RetroSnake.git ```
 
 2. Download MSYS2 from the official website - https://www.msys2.org/
 
